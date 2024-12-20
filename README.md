@@ -1,9 +1,8 @@
-# Expense_app
-Expense App
+# Expense App
 
-The expense tracker app can be accessed at https://jazzy-cendol-f50b53.netlify.app/
+#### The Expense tracker app can be accessed at https://jazzy-cendol-f50b53.netlify.app/
 
-Build a monthly expense tracker with yearly reporting and comparison features. It was built by using React with TypeScript and create a clean, user-friendly interface.
+### Build a monthly expense tracker with yearly reporting and comparison features. It was built by using React with TypeScript and create a clean, user-friendly interface.
 
 I've created a comprehensive expense tracking application with the following features:
 
